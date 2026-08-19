@@ -5,19 +5,6 @@
 > 原则：所有内容以代码与资源为准；规划内容一律标注版本状态
 > （V1.0 已实现 / V1.1 开发中 / V1.2 计划 / V2.0 构想）。
 
-## 目录
-
-### 招聘版作品集（AI 策划 / Vibe Coding 岗位）
-
-| 文件 | 内容 |
-| --- | --- |
-| [recruitment_portfolio.md](recruitment_portfolio.md) | 16 页招聘作品集完整内容设计（含最终审计） |
-| [recruitment_page_specs.md](recruitment_page_specs.md) | PPT / Figma 逐页制作规格（1920×1080） |
-| [recruitment_screenshot_checklist.md](recruitment_screenshot_checklist.md) | 截图证据清单（已有 9 张 Excel 图 + 待拍清单） |
-| [recruitment_demo_script.md](recruitment_demo_script.md) | 2–4 分钟 Demo 分镜 |
-| [recruitment_hr_reading_path.md](recruitment_hr_reading_path.md) | HR 3 分钟阅读路径 |
-| [recruitment_resume_project_entry.md](recruitment_resume_project_entry.md) | 简历项目条目（可直接复制） |
-
 | 章节 | 文件 | 内容 |
 | --- | --- | --- |
 | 00 | [00_project_audit.md](00_project_audit.md) | 项目真实功能基线审计 |
