@@ -30,15 +30,15 @@ V1.1 定位为**基于 Minecraft 原版生存流程的轻量 RPG 冒险框架**�
 
 ## 配表
 
-[docs/portfolio/assets/Economy.png](docs/portfolio/assets/Economy.png)
-[docs/portfolio/assets/Equipment.png](docs/portfolio/assets/Equipment.png)
-[docs/portfolio/assets/Level.png](docs/portfolio/assets/Level.png)
-[docs/portfolio/assets/Quest.png](docs/portfolio/assets/Quest.png)
-[docs/portfolio/assets/QuestChain.png](docs/portfolio/assets/QuestChain.png)
-[docs/portfolio/assets/QuestPool.png](docs/portfolio/assets/QuestPool.png)
-[docs/portfolio/assets/Reputation.png](docs/portfolio/assets/Reputation.png)
-[docs/portfolio/assets/Shop.png](docs/portfolio/assets/Shop.png)
-[docs/portfolio/assets/TestData.png](docs/portfolio/assets/TestData.png])
+1.经济[docs/portfolio/assets/Economy.png](docs/portfolio/assets/Economy.png)  
+2.饰品[docs/portfolio/assets/Equipment.png](docs/portfolio/assets/Equipment.png)  
+3.等级[docs/portfolio/assets/Level.png](docs/portfolio/assets/Level.png)  
+4.任务[docs/portfolio/assets/Quest.png](docs/portfolio/assets/Quest.png)
+5.任务链[docs/portfolio/assets/QuestChain.png](docs/portfolio/assets/QuestChain.png)  
+6.任务池[docs/portfolio/assets/QuestPool.png](docs/portfolio/assets/QuestPool.png)  
+7.声望[docs/portfolio/assets/Reputation.png](docs/portfolio/assets/Reputation.png)  
+8.商店[docs/portfolio/assets/Shop.png](docs/portfolio/assets/Shop.png)  
+9.验收清单[docs/portfolio/assets/TestData.png](docs/portfolio/assets/TestData.png])  
 
 ## 技术栈
 
