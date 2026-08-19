@@ -28,6 +28,18 @@ V1.1 定位为**基于 Minecraft 原版生存流程的轻量 RPG 冒险框架**�
 | 快捷键 | G/J/K/L（可重绑） |
 | 持久化 | 玩家能力 NBT + GuildWorldData + 实体持久化；服务器权威 |
 
+## 配表
+
+docs/portfolio/assets/Economy.png
+docs/portfolio/assets/Equipment.png
+docs/portfolio/assets/Level.png
+docs/portfolio/assets/Quest.png
+docs/portfolio/assets/QuestChain.png
+docs/portfolio/assets/QuestPool.png
+docs/portfolio/assets/Reputation.png
+docs/portfolio/assets/Shop.png
+docs/portfolio/assets/TestData.png
+
 ## 技术栈
 
 Minecraft 1.20.1 · Forge 47.4.22 · Java 17 · Gradle 8.8 · ForgeGradle 6.0.54 · Mod ID `adventurersguild` · Package `com.adventurersguild`
