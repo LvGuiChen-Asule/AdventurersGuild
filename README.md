@@ -73,8 +73,8 @@ Client(显示/请求) → C2S 包 → 服务端系统（Quest/Chapter/Chronicle/
 
 ## 开发进度
 
-- [x] V0.1–V1.0（任务/成长/声望/经济/装备/NPC/公会/任务链/UI/持久化）
-- [x] V1.1：能力重构、GuildWorldData、公会建筑与自然生成、6 NPC 实体与 AI、对话框架、Chronicle、15 世界事件、章节主线、Lore、Endgame、冒险团、UI 主题与快捷键、网络重构、Excel 21 表、服务器冒烟测试
+- [√] V0.1–V1.0（任务/成长/声望/经济/装备/NPC/公会/任务链/UI/持久化）
+- [√] V1.1：能力重构、GuildWorldData、公会建筑与自然生成、6 NPC 实体与 AI、对话框架、Chronicle、15 世界事件、章节主线、Lore、Endgame、冒险团、UI 主题与快捷键、网络重构、Excel 21 表、服务器冒烟测试
 - [ ] 真实游玩回归（TestData 待验证项）、多人测试、截图与视频
 
 ## 开源协议
