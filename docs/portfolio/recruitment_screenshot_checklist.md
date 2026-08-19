@@ -49,7 +49,7 @@
 | --- | --- |
 | Demo 视频（2–4 分钟） | 待录制（脚本已就绪：recruitment_demo_script.md） |
 | Gameplay GIF | 待录制（从视频截取） |
-| GitHub 仓库 / QR | **不存在**（项目未初始化 git、未开源）——作品集不得放 QR |
+| GitHub 仓库 | 已创建并推送：https://github.com/LvGuiChen-Asule/AdventurersGuild（公开，main 分支 292 文件）；QR 待生成 |
 | 简历/作品集 PDF | 待制作（本套文件为内容源） |
 | 前后对比图（Y=0 地下 vs 地表） | 待拍（旧版问题截图未留存） |
 

@@ -55,5 +55,5 @@
 ## 防翻车提示（务必遵守）
 
 - 游戏截图未拍前：页面明确放"待拍"占位，不放网图/生成图冒充；
-- 无 GitHub：不画 QR、不写链接，改为"项目文档齐全，可现场演示"；
+- GitHub 已上线：https://github.com/LvGuiChen-Asule/AdventurersGuild（公开仓库）；QR 可后续生成，用于简历与 PPT；
 - 版本徽标不混用：V1.1 内容必须标 IN DEVELOPMENT，V1.2/V2.0 必须标 PLANNED/CONCEPT。

@@ -46,6 +46,10 @@ Client(显示/请求) → C2S 包 → 服务端系统（Quest/Chapter/Chronicle/
 
 详见 [docs/architecture.md](docs/architecture.md)、[docs/quest_system.md](docs/quest_system.md)、[docs/v1.1_baseline.md](docs/v1.1_baseline.md)。
 
+## GitHub
+
+公开仓库：[LvGuiChen-Asule/AdventurersGuild](https://github.com/LvGuiChen-Asule/AdventurersGuild)
+
 ## 作品集
 
 《Adventurer's Guild 游戏系统策划集》（29 章，基于真实代码与实测数据）：

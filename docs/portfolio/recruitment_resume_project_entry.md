@@ -36,7 +36,7 @@
 **注意（诚实标注，勿删）**：
 
 - 游戏截图/演示视频：待补拍（文档脚本已就绪）
-- GitHub：未开源，无仓库链接
+- GitHub：https://github.com/LvGuiChen-Asule/AdventurersGuild（公开仓库，含全部源码与作品集）
 - 多人（2/5/10 人）与 Curios 环境：尚未实测
 
 ## 简历写法示例（单条 Bullet）

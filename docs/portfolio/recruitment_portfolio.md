@@ -382,7 +382,7 @@ UI（10 页面）
 | 游戏大截图 | 已有（AG_01 全景 / AG_13 内部 / AG_03 任务大厅 / AG_04 详情 / AG_05 对话） |
 | Gameplay 视频/GIF | 待录制（2–4 分钟脚本见 recruitment_demo_script.md） |
 | Demo 流程 | 公会 → NPC → 任务 → 冒险 → 奖励 → 成长（脚本就绪） |
-| GitHub QR | **无 GitHub 仓库（项目未开源）——不伪造** |
+| GitHub | 已上线：https://github.com/LvGuiChen-Asule/AdventurersGuild（公开仓库；QR 可后续生成） |
 | 项目文档 | 29 章策划集 + 6 招聘文件（docs/portfolio/） |
 
 **"可玩"证据（真实）**：
@@ -419,7 +419,7 @@ UI（10 页面）
 
 - 所有数字来自 2026-08-19 重扫（86/7176/80/5/6/12/3/3/22/5/21）——VERIFIED；
 - 截图现状如实标注：12 张游戏截图已按编号收录（缺 09 世界事件、12 Build 两张）；Excel 截图已有 9 张；
-- GitHub/视频/Codex 对话截图均如实标注"不存在/待补"，**无虚构**。
+- GitHub 已上线（公开仓库，2026-08-19 推送，292 文件）；视频/Codex 截图如实标注"待补"，**无虚构**。
 
 ## 版本
 
@@ -442,5 +442,5 @@ recruitment_page_specs.md 提供逐页 PPT/Figma 规格；recruitment_hr_reading
 ## 当前最大短板（诚实）
 
 1. **截图基本补齐（12/14），仅缺 09 世界事件与 12 Build**——不影响 16 页制作，P09/P02/P14 可用文档证据替代；视频暂缓；
-2. **无 GitHub**——缺少"作品集链接"这一简历必备入口；
+2. ~~无 GitHub~~（已解决：公开仓库 https://github.com/LvGuiChen-Asule/AdventurersGuild 已推送）——后续补 QR 与演示视频；
 3. **多人/Curios 未验证**——部分宣称需要补测。
