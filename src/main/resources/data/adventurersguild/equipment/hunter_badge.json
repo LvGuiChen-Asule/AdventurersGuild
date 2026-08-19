@@ -1,0 +1,8 @@
+{
+  "id": "hunter_badge",
+  "item": "adventurersguild:hunter_badge",
+  "slot": "charm",
+  "effect": "hostile_damage",
+  "value": 0.05,
+  "description": "equipment.adventurersguild.hunter_badge.desc"
+}

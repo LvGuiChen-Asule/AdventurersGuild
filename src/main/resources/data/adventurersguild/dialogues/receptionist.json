@@ -1,0 +1,24 @@
+{
+  "id": "receptionist",
+  "npc": "receptionist",
+  "start": "start",
+  "nodes": [
+    {
+      "id": "start",
+      "text": "dialogue.adventurersguild.receptionist.start",
+      "choices": [
+        { "text": "dialogue.adventurersguild.receptionist.choices.register", "actions": [ { "type": "register" } ], "next": "close" },
+        { "text": "dialogue.adventurersguild.receptionist.choices.profile", "actions": [ { "type": "open_screen", "value": "adventurer" } ], "next": "close" },
+        { "text": "dialogue.adventurersguild.receptionist.choices.about", "next": "about" },
+        { "text": "dialogue.adventurersguild.receptionist.choices.bye", "next": "close" }
+      ]
+    },
+    {
+      "id": "about",
+      "text": "dialogue.adventurersguild.receptionist.about",
+      "choices": [
+        { "text": "dialogue.adventurersguild.receptionist.choices.bye", "next": "close" }
+      ]
+    }
+  ]
+}

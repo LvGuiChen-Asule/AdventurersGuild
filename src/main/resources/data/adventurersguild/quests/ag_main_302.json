@@ -1,0 +1,21 @@
+{
+  "id": "AG_MAIN_302",
+  "type": "MILESTONE",
+  "quality": "EPIC",
+  "title": "quest.adventurersguild.AG_MAIN_302.title",
+  "description": "quest.adventurersguild.AG_MAIN_302.desc",
+  "objective": {
+    "target": "EVENT_FIRST_DRAGON_ATTACK",
+    "amount": 1
+  },
+  "reward": {
+    "gold": 0,
+    "exp": 80,
+    "reputation": 30
+  },
+  "recommended_level": 3,
+  "min_level": 3,
+  "min_reputation": 0,
+  "time_limit_seconds": 0,
+  "tutorial": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": "chain_miner",
+  "title": "chain.adventurersguild.chain_miner.title",
+  "description": "chain.adventurersguild.chain_miner.desc",
+  "steps": [
+    { "step": 0, "quest_id": "collect_coal", "unlock": { "type": "level", "value": 1 } },
+    { "step": 1, "quest_id": "collect_iron_ingots" },
+    { "step": 2, "quest_id": "collect_iron_ore" },
+    { "step": 3, "quest_id": "collect_diamonds" },
+    { "step": 4, "quest_id": "hunt_blazes" }
+  ]
+}

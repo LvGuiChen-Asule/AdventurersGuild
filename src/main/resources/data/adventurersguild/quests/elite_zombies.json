@@ -1,0 +1,13 @@
+{
+  "id": "elite_zombies",
+  "type": "ELITE",
+  "quality": "LEGENDARY",
+  "title": "quest.adventurersguild.elite_zombies.title",
+  "description": "quest.adventurersguild.elite_zombies.desc",
+  "objective": { "target": "minecraft:zombie", "amount": 3 },
+  "reward": { "gold": 200, "exp": 150, "reputation": 60 },
+  "recommended_level": 6,
+  "min_level": 6,
+  "min_reputation": 0,
+  "time_limit_seconds": 7200
+}

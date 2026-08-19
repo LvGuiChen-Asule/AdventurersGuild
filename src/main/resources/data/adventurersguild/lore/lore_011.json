@@ -1,0 +1,6 @@
+{
+  "id": "LORE_011",
+  "title": "lore.adventurersguild.LORE_011.title",
+  "text": "lore.adventurersguild.LORE_011.text",
+  "unlock_event": "EVENT_WITHER_DEATH"
+}

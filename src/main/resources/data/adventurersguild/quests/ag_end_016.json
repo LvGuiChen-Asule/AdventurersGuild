@@ -1,0 +1,21 @@
+{
+  "id": "AG_END_016",
+  "type": "ACHIEVEMENT",
+  "quality": "EPIC",
+  "title": "quest.adventurersguild.AG_END_016.title",
+  "description": "quest.adventurersguild.AG_END_016.desc",
+  "objective": {
+    "target": "loreCount",
+    "amount": 5
+  },
+  "reward": {
+    "gold": 0,
+    "exp": 120,
+    "reputation": 40
+  },
+  "recommended_level": 6,
+  "min_level": 6,
+  "min_reputation": 0,
+  "time_limit_seconds": 0,
+  "tutorial": false
+}

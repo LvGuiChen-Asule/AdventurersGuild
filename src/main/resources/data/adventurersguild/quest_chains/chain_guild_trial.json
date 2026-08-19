@@ -1,0 +1,12 @@
+{
+  "id": "chain_guild_trial",
+  "title": "chain.adventurersguild.chain_guild_trial.title",
+  "description": "chain.adventurersguild.chain_guild_trial.desc",
+  "steps": [
+    { "step": 0, "quest_id": "explore_desert", "unlock": { "type": "reputation", "value": 800 } },
+    { "step": 1, "quest_id": "survive_in_desert" },
+    { "step": 2, "quest_id": "hunt_witches" },
+    { "step": 3, "quest_id": "transport_gold_to_guild" },
+    { "step": 4, "quest_id": "elite_skeletons" }
+  ]
+}

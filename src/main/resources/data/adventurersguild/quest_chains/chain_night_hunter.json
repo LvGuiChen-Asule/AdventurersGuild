@@ -1,0 +1,12 @@
+{
+  "id": "chain_night_hunter",
+  "title": "chain.adventurersguild.chain_night_hunter.title",
+  "description": "chain.adventurersguild.chain_night_hunter.desc",
+  "steps": [
+    { "step": 0, "quest_id": "hunt_zombies", "unlock": { "type": "level", "value": 2 } },
+    { "step": 1, "quest_id": "hunt_skeletons" },
+    { "step": 2, "quest_id": "hunt_creepers" },
+    { "step": 3, "quest_id": "survive_night_surface" },
+    { "step": 4, "quest_id": "elite_zombies" }
+  ]
+}

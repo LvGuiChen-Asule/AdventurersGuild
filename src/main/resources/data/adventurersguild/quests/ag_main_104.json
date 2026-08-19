@@ -1,0 +1,21 @@
+{
+  "id": "AG_MAIN_104",
+  "type": "EXPLORE",
+  "quality": "RARE",
+  "title": "quest.adventurersguild.AG_MAIN_104.title",
+  "description": "quest.adventurersguild.AG_MAIN_104.desc",
+  "objective": {
+    "target": "minecraft:desert",
+    "amount": 0
+  },
+  "reward": {
+    "gold": 0,
+    "exp": 50,
+    "reputation": 20
+  },
+  "recommended_level": 1,
+  "min_level": 1,
+  "min_reputation": 0,
+  "time_limit_seconds": 0,
+  "tutorial": false
+}

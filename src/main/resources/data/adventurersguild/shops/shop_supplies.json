@@ -1,0 +1,11 @@
+{
+  "id": "shop_supplies",
+  "title": "shop.adventurersguild.shop_supplies.title",
+  "category": "supplies",
+  "items": [
+    { "item": "minecraft:bread", "count": 4, "price": 10, "min_level": 1 },
+    { "item": "minecraft:torch", "count": 8, "price": 5, "min_level": 1 },
+    { "item": "minecraft:arrow", "count": 8, "price": 12, "min_level": 1 },
+    { "item": "minecraft:oak_planks", "count": 16, "price": 8, "min_level": 1 }
+  ]
+}

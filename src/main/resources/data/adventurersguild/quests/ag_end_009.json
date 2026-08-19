@@ -1,0 +1,21 @@
+{
+  "id": "AG_END_009",
+  "type": "INTERACT",
+  "quality": "RARE",
+  "title": "quest.adventurersguild.AG_END_009.title",
+  "description": "quest.adventurersguild.AG_END_009.desc",
+  "objective": {
+    "target": "archivist",
+    "amount": 1
+  },
+  "reward": {
+    "gold": 0,
+    "exp": 60,
+    "reputation": 20
+  },
+  "recommended_level": 6,
+  "min_level": 6,
+  "min_reputation": 0,
+  "time_limit_seconds": 0,
+  "tutorial": false
+}

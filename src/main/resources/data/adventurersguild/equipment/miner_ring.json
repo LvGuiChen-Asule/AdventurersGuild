@@ -1,0 +1,8 @@
+{
+  "id": "miner_ring",
+  "item": "adventurersguild:miner_ring",
+  "slot": "ring",
+  "effect": "mining_speed",
+  "value": 0.05,
+  "description": "equipment.adventurersguild.miner_ring.desc"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "explore_jungle",
+  "type": "EXPLORE",
+  "quality": "RARE",
+  "title": "quest.adventurersguild.explore_jungle.title",
+  "description": "quest.adventurersguild.explore_jungle.desc",
+  "objective": { "target": "minecraft:jungle" },
+  "reward": { "gold": 100, "exp": 65, "reputation": 25 },
+  "recommended_level": 3,
+  "min_level": 3,
+  "min_reputation": 0,
+  "time_limit_seconds": 3600
+}

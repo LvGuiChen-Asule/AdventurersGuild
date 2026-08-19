@@ -1,0 +1,34 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="adventurersguild"
+version="1.1.0"
+displayName="Adventurer's Guild"
+description='''A quest-driven adventure & progression system mod for Minecraft 1.20.1 (Forge).
+
+V1.0 (portfolio edition):
+- 32 data-driven quests: COLLECT / HUNT / EXPLORE / SURVIVE / TRANSPORT / ELITE
+- 5 quest qualities (COMMON-LEGENDARY), daily quest board + paid refresh
+- 3 quest chains with prerequisites and elite mob encounters
+- Growth: Lv1-6 titles, EXP curve, guild reputation tiers
+- Economy: 3 shops with level unlocks
+- Equipment: 5 accessories with effect bonuses (optional Curios integration)
+- NPCs (receptionist / quest master / shopkeeper) + guild terminal block
+- New-player tutorial quest, full UI (hall / detail / active / info / shop / chains)
+- Server-authoritative state, per-player persistence'''
+
+[[dependencies.adventurersguild]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.adventurersguild]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"

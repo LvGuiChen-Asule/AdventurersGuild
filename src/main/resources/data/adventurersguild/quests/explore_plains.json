@@ -1,0 +1,13 @@
+{
+  "id": "explore_plains",
+  "type": "EXPLORE",
+  "quality": "RARE",
+  "title": "quest.adventurersguild.explore_plains.title",
+  "description": "quest.adventurersguild.explore_plains.desc",
+  "objective": { "target": "minecraft:plains" },
+  "reward": { "gold": 70, "exp": 45, "reputation": 25 },
+  "recommended_level": 3,
+  "min_level": 3,
+  "min_reputation": 0,
+  "time_limit_seconds": 3600
+}

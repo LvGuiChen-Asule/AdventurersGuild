@@ -1,0 +1,21 @@
+{
+  "id": "AG_END_023",
+  "type": "ACHIEVEMENT",
+  "quality": "EPIC",
+  "title": "quest.adventurersguild.AG_END_023.title",
+  "description": "quest.adventurersguild.AG_END_023.desc",
+  "objective": {
+    "target": "dragonKills",
+    "amount": 1
+  },
+  "reward": {
+    "gold": 0,
+    "exp": 150,
+    "reputation": 50
+  },
+  "recommended_level": 6,
+  "min_level": 6,
+  "min_reputation": 0,
+  "time_limit_seconds": 0,
+  "tutorial": false
+}

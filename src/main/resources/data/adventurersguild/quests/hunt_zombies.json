@@ -1,0 +1,13 @@
+{
+  "id": "hunt_zombies",
+  "type": "HUNT",
+  "quality": "COMMON",
+  "title": "quest.adventurersguild.hunt_zombies.title",
+  "description": "quest.adventurersguild.hunt_zombies.desc",
+  "objective": { "target": "minecraft:zombie", "amount": 10 },
+  "reward": { "gold": 60, "exp": 40, "reputation": 10 },
+  "recommended_level": 1,
+  "min_level": 1,
+  "min_reputation": 0,
+  "time_limit_seconds": 1800
+}

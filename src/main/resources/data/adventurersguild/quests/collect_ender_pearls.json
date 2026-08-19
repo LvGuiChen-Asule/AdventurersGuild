@@ -1,0 +1,13 @@
+{
+  "id": "collect_ender_pearls",
+  "type": "COLLECT",
+  "quality": "RARE",
+  "title": "quest.adventurersguild.collect_ender_pearls.title",
+  "description": "quest.adventurersguild.collect_ender_pearls.desc",
+  "objective": { "target": "minecraft:ender_pearl", "amount": 4 },
+  "reward": { "gold": 90, "exp": 60, "reputation": 25 },
+  "recommended_level": 3,
+  "min_level": 3,
+  "min_reputation": 0,
+  "time_limit_seconds": 3600
+}

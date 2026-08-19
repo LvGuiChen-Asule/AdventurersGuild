@@ -1,0 +1,21 @@
+{
+  "id": "AG_END_011",
+  "type": "ACHIEVEMENT",
+  "quality": "LEGENDARY",
+  "title": "quest.adventurersguild.AG_END_011.title",
+  "description": "quest.adventurersguild.AG_END_011.desc",
+  "objective": {
+    "target": "witherKills",
+    "amount": 3
+  },
+  "reward": {
+    "gold": 100,
+    "exp": 200,
+    "reputation": 60
+  },
+  "recommended_level": 6,
+  "min_level": 6,
+  "min_reputation": 0,
+  "time_limit_seconds": 0,
+  "tutorial": false
+}

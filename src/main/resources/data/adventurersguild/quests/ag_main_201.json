@@ -1,0 +1,22 @@
+{
+  "id": "AG_MAIN_201",
+  "type": "SURVIVE",
+  "quality": "RARE",
+  "title": "quest.adventurersguild.AG_MAIN_201.title",
+  "description": "quest.adventurersguild.AG_MAIN_201.desc",
+  "objective": {
+    "target": "minecraft:the_nether",
+    "amount": 60,
+    "extra": "dimension"
+  },
+  "reward": {
+    "gold": 0,
+    "exp": 60,
+    "reputation": 20
+  },
+  "recommended_level": 2,
+  "min_level": 2,
+  "min_reputation": 0,
+  "time_limit_seconds": 0,
+  "tutorial": false
+}

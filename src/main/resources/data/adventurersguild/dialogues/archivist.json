@@ -1,0 +1,23 @@
+{
+  "id": "archivist",
+  "npc": "archivist",
+  "start": "start",
+  "nodes": [
+    {
+      "id": "start",
+      "text": "dialogue.adventurersguild.archivist.start",
+      "choices": [
+        { "text": "dialogue.adventurersguild.archivist.choices.chronicle", "actions": [ { "type": "open_screen", "value": "chronicle" } ], "next": "close" },
+        { "text": "dialogue.adventurersguild.archivist.choices.lore", "next": "lore" },
+        { "text": "dialogue.adventurersguild.archivist.choices.bye", "next": "close" }
+      ]
+    },
+    {
+      "id": "lore",
+      "text": "dialogue.adventurersguild.archivist.lore",
+      "choices": [
+        { "text": "dialogue.adventurersguild.archivist.choices.bye", "next": "close" }
+      ]
+    }
+  ]
+}

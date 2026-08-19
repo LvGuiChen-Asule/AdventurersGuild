@@ -1,0 +1,13 @@
+{
+  "id": "hunt_endermen",
+  "type": "HUNT",
+  "quality": "UNCOMMON",
+  "title": "quest.adventurersguild.hunt_endermen.title",
+  "description": "quest.adventurersguild.hunt_endermen.desc",
+  "objective": { "target": "minecraft:enderman", "amount": 4 },
+  "reward": { "gold": 100, "exp": 70, "reputation": 15 },
+  "recommended_level": 2,
+  "min_level": 2,
+  "min_reputation": 0,
+  "time_limit_seconds": 2700
+}

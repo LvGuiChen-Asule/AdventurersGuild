@@ -1,0 +1,15 @@
+{
+  "id": "shopkeeper",
+  "npc": "shopkeeper",
+  "start": "start",
+  "nodes": [
+    {
+      "id": "start",
+      "text": "dialogue.adventurersguild.shopkeeper.start",
+      "choices": [
+        { "text": "dialogue.adventurersguild.shopkeeper.choices.shop", "actions": [ { "type": "open_screen", "value": "shop" } ], "next": "close" },
+        { "text": "dialogue.adventurersguild.shopkeeper.choices.bye", "next": "close" }
+      ]
+    }
+  ]
+}

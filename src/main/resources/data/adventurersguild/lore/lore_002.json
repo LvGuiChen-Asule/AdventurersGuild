@@ -1,0 +1,6 @@
+{
+  "id": "LORE_002",
+  "title": "lore.adventurersguild.LORE_002.title",
+  "text": "lore.adventurersguild.LORE_002.text",
+  "unlock_event": "EVENT_GUILD_REGISTER"
+}

@@ -1,0 +1,72 @@
+plugins {
+    id 'eclipse'
+    id 'idea'
+    id 'net.minecraftforge.gradle' version '6.0.54'
+}
+
+version = '1.1.0'
+group = 'com.adventurersguild'
+base {
+    archivesName = 'adventurersguild'
+}
+
+java.toolchain.languageVersion = JavaLanguageVersion.of(17)
+
+println "Java: ${System.getProperty('java.version')} (${System.getProperty('java.vendor')})"
+println "Gradle: ${gradle.gradleVersion}"
+
+minecraft {
+    mappings channel: 'official', version: '1.20.1'
+
+    runs {
+        client {
+            workingDirectory project.file('run')
+            property 'forge.logging.markers', 'REGISTRIES'
+            property 'forge.logging.console.level', 'debug'
+            mods {
+                adventurersguild {
+                    source sourceSets.main
+                }
+            }
+        }
+
+        server {
+            workingDirectory project.file('run')
+            property 'forge.logging.markers', 'REGISTRIES'
+            property 'forge.logging.console.level', 'debug'
+            arg '--nogui'
+            mods {
+                adventurersguild {
+                    source sourceSets.main
+                }
+            }
+        }
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    minecraft 'net.minecraftforge:forge:1.20.1-47.4.22'
+}
+
+jar {
+    manifest {
+        attributes([
+            "Specification-Title"     : "Adventurer's Guild",
+            "Specification-Vendor"    : "adventurersguild",
+            "Specification-Version"   : "1",
+            "Implementation-Title"    : "AdventurersGuild",
+            "Implementation-Version"  : project.version,
+            "Implementation-Vendor"   : "adventurersguild"
+        ])
+    }
+}
+
+jar.finalizedBy('reobfJar')
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+}

@@ -1,0 +1,21 @@
+{
+  "id": "AG_END_024",
+  "type": "ACHIEVEMENT",
+  "quality": "LEGENDARY",
+  "title": "quest.adventurersguild.AG_END_024.title",
+  "description": "quest.adventurersguild.AG_END_024.desc",
+  "objective": {
+    "target": "completed",
+    "amount": 200
+  },
+  "reward": {
+    "gold": 500,
+    "exp": 500,
+    "reputation": 150
+  },
+  "recommended_level": 6,
+  "min_level": 6,
+  "min_reputation": 0,
+  "time_limit_seconds": 0,
+  "tutorial": false
+}

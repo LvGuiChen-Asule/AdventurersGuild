@@ -1,0 +1,13 @@
+{
+  "id": "transport_iron_to_guild",
+  "type": "TRANSPORT",
+  "quality": "RARE",
+  "title": "quest.adventurersguild.transport_iron_to_guild.title",
+  "description": "quest.adventurersguild.transport_iron_to_guild.desc",
+  "objective": { "target": "minecraft:iron_ingot", "amount": 16, "extra": "spawn", "radius": 80 },
+  "reward": { "gold": 100, "exp": 65, "reputation": 25 },
+  "recommended_level": 3,
+  "min_level": 3,
+  "min_reputation": 0,
+  "time_limit_seconds": 3600
+}

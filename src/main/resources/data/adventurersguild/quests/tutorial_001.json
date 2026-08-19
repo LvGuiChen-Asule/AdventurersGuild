@@ -1,0 +1,14 @@
+{
+  "id": "Tutorial_001",
+  "type": "COLLECT",
+  "quality": "COMMON",
+  "title": "quest.adventurersguild.Tutorial_001.title",
+  "description": "quest.adventurersguild.Tutorial_001.desc",
+  "objective": { "target": "#minecraft:logs", "amount": 10 },
+  "reward": { "gold": 20, "exp": 20, "reputation": 10 },
+  "recommended_level": 1,
+  "min_level": 1,
+  "min_reputation": 0,
+  "time_limit_seconds": 1800,
+  "tutorial": true
+}

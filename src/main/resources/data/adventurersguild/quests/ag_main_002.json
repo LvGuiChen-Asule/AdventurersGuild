@@ -1,0 +1,21 @@
+{
+  "id": "AG_MAIN_002",
+  "type": "ACHIEVEMENT",
+  "quality": "RARE",
+  "title": "quest.adventurersguild.AG_MAIN_002.title",
+  "description": "quest.adventurersguild.AG_MAIN_002.desc",
+  "objective": {
+    "target": "completed",
+    "amount": 1
+  },
+  "reward": {
+    "gold": 20,
+    "exp": 40,
+    "reputation": 20
+  },
+  "recommended_level": 1,
+  "min_level": 1,
+  "min_reputation": 0,
+  "time_limit_seconds": 0,
+  "tutorial": false
+}

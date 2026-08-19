@@ -1,0 +1,13 @@
+{
+  "id": "hunt_witches",
+  "type": "HUNT",
+  "quality": "RARE",
+  "title": "quest.adventurersguild.hunt_witches.title",
+  "description": "quest.adventurersguild.hunt_witches.desc",
+  "objective": { "target": "minecraft:witch", "amount": 3 },
+  "reward": { "gold": 110, "exp": 75, "reputation": 25 },
+  "recommended_level": 3,
+  "min_level": 3,
+  "min_reputation": 0,
+  "time_limit_seconds": 3600
+}

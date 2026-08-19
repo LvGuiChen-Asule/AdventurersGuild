@@ -1,0 +1,13 @@
+{
+  "id": "collect_gunpowder",
+  "type": "COLLECT",
+  "quality": "UNCOMMON",
+  "title": "quest.adventurersguild.collect_gunpowder.title",
+  "description": "quest.adventurersguild.collect_gunpowder.desc",
+  "objective": { "target": "minecraft:gunpowder", "amount": 12 },
+  "reward": { "gold": 50, "exp": 35, "reputation": 15 },
+  "recommended_level": 2,
+  "min_level": 2,
+  "min_reputation": 0,
+  "time_limit_seconds": 2700
+}

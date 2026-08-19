@@ -1,0 +1,12 @@
+{
+  "id": "shop_rare",
+  "title": "shop.adventurersguild.shop_rare.title",
+  "category": "special",
+  "items": [
+    { "item": "minecraft:diamond_pickaxe", "count": 1, "price": 600, "min_level": 5 },
+    { "item": "minecraft:diamond_sword", "count": 1, "price": 500, "min_level": 5 },
+    { "item": "minecraft:diamond_helmet", "count": 1, "price": 400, "min_level": 5 },
+    { "item": "minecraft:ender_pearl", "count": 4, "price": 200, "min_level": 5 },
+    { "item": "minecraft:golden_apple", "count": 2, "price": 260, "min_level": 5 }
+  ]
+}

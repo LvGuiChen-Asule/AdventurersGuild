@@ -1,0 +1,10 @@
+{
+  "id": "chapter_1",
+  "title": "chapter.adventurersguild.chapter_1.title",
+  "description": "chapter.adventurersguild.chapter_1.desc",
+  "unlock": { "type": "event", "value": "EVENT_GUILD_REGISTER" },
+  "quests": [
+    "AG_MAIN_000", "AG_MAIN_001", "AG_MAIN_002", "AG_MAIN_101",
+    "AG_MAIN_102", "AG_MAIN_103", "AG_MAIN_104", "AG_MAIN_105"
+  ]
+}

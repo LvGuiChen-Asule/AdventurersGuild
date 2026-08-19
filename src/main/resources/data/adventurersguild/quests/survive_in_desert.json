@@ -1,0 +1,13 @@
+{
+  "id": "survive_in_desert",
+  "type": "SURVIVE",
+  "quality": "RARE",
+  "title": "quest.adventurersguild.survive_in_desert.title",
+  "description": "quest.adventurersguild.survive_in_desert.desc",
+  "objective": { "target": "minecraft:desert", "amount": 120, "extra": "biome" },
+  "reward": { "gold": 90, "exp": 55, "reputation": 25 },
+  "recommended_level": 3,
+  "min_level": 3,
+  "min_reputation": 0,
+  "time_limit_seconds": 5400
+}

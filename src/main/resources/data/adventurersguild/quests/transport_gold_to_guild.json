@@ -1,0 +1,13 @@
+{
+  "id": "transport_gold_to_guild",
+  "type": "TRANSPORT",
+  "quality": "EPIC",
+  "title": "quest.adventurersguild.transport_gold_to_guild.title",
+  "description": "quest.adventurersguild.transport_gold_to_guild.desc",
+  "objective": { "target": "minecraft:gold_ingot", "amount": 8, "extra": "spawn", "radius": 80 },
+  "reward": { "gold": 160, "exp": 110, "reputation": 40 },
+  "recommended_level": 4,
+  "min_level": 4,
+  "min_reputation": 0,
+  "time_limit_seconds": 3600
+}

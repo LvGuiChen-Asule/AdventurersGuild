@@ -1,0 +1,8 @@
+{
+  "id": "adventurer_badge",
+  "item": "adventurersguild:adventurer_badge",
+  "slot": "charm",
+  "effect": "quest_exp",
+  "value": 0.05,
+  "description": "equipment.adventurersguild.adventurer_badge.desc"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "collect_coal",
+  "type": "COLLECT",
+  "quality": "COMMON",
+  "title": "quest.adventurersguild.collect_coal.title",
+  "description": "quest.adventurersguild.collect_coal.desc",
+  "objective": { "target": "minecraft:coal", "amount": 24 },
+  "reward": { "gold": 40, "exp": 25, "reputation": 10 },
+  "recommended_level": 1,
+  "min_level": 1,
+  "min_reputation": 0,
+  "time_limit_seconds": 1800
+}

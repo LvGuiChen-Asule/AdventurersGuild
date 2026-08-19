@@ -1,0 +1,13 @@
+{
+  "id": "collect_diamonds",
+  "type": "COLLECT",
+  "quality": "RARE",
+  "title": "quest.adventurersguild.collect_diamonds.title",
+  "description": "quest.adventurersguild.collect_diamonds.desc",
+  "objective": { "target": "minecraft:diamond", "amount": 2 },
+  "reward": { "gold": 120, "exp": 80, "reputation": 25 },
+  "recommended_level": 3,
+  "min_level": 3,
+  "min_reputation": 0,
+  "time_limit_seconds": 3600
+}

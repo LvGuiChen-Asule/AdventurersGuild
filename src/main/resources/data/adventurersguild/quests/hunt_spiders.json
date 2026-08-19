@@ -1,0 +1,13 @@
+{
+  "id": "hunt_spiders",
+  "type": "HUNT",
+  "quality": "COMMON",
+  "title": "quest.adventurersguild.hunt_spiders.title",
+  "description": "quest.adventurersguild.hunt_spiders.desc",
+  "objective": { "target": "minecraft:spider", "amount": 8 },
+  "reward": { "gold": 55, "exp": 35, "reputation": 10 },
+  "recommended_level": 1,
+  "min_level": 1,
+  "min_reputation": 0,
+  "time_limit_seconds": 1800
+}

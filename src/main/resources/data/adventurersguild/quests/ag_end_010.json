@@ -1,0 +1,21 @@
+{
+  "id": "AG_END_010",
+  "type": "MILESTONE",
+  "quality": "EPIC",
+  "title": "quest.adventurersguild.AG_END_010.title",
+  "description": "quest.adventurersguild.AG_END_010.desc",
+  "objective": {
+    "target": "EVENT_WITHER_SUMMON",
+    "amount": 1
+  },
+  "reward": {
+    "gold": 0,
+    "exp": 120,
+    "reputation": 40
+  },
+  "recommended_level": 6,
+  "min_level": 6,
+  "min_reputation": 0,
+  "time_limit_seconds": 0,
+  "tutorial": false
+}

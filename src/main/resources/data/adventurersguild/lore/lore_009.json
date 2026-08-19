@@ -1,0 +1,6 @@
+{
+  "id": "LORE_009",
+  "title": "lore.adventurersguild.LORE_009.title",
+  "text": "lore.adventurersguild.LORE_009.text",
+  "unlock_event": "EVENT_WITHER_SUMMON"
+}

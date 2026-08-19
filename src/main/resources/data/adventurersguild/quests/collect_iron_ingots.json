@@ -1,0 +1,13 @@
+{
+  "id": "collect_iron_ingots",
+  "type": "COLLECT",
+  "quality": "COMMON",
+  "title": "quest.adventurersguild.collect_iron_ingots.title",
+  "description": "quest.adventurersguild.collect_iron_ingots.desc",
+  "objective": { "target": "minecraft:iron_ingot", "amount": 16 },
+  "reward": { "gold": 50, "exp": 30, "reputation": 10 },
+  "recommended_level": 1,
+  "min_level": 1,
+  "min_reputation": 0,
+  "time_limit_seconds": 2700
+}

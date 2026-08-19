@@ -1,0 +1,8 @@
+{
+  "id": "guild_badge",
+  "item": "adventurersguild:guild_badge",
+  "slot": "charm",
+  "effect": "gold_reward",
+  "value": 0.05,
+  "description": "equipment.adventurersguild.guild_badge.desc"
+}

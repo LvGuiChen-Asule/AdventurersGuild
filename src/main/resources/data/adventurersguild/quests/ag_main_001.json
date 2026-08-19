@@ -1,0 +1,21 @@
+{
+  "id": "AG_MAIN_001",
+  "type": "MILESTONE",
+  "quality": "RARE",
+  "title": "quest.adventurersguild.AG_MAIN_001.title",
+  "description": "quest.adventurersguild.AG_MAIN_001.desc",
+  "objective": {
+    "target": "EVENT_GUILD_REGISTER",
+    "amount": 1
+  },
+  "reward": {
+    "gold": 0,
+    "exp": 30,
+    "reputation": 15
+  },
+  "recommended_level": 1,
+  "min_level": 1,
+  "min_reputation": 0,
+  "time_limit_seconds": 0,
+  "tutorial": false
+}

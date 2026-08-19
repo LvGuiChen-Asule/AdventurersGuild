@@ -1,0 +1,7 @@
+{
+  "id": "chapter_0",
+  "title": "chapter.adventurersguild.chapter_0.title",
+  "description": "chapter.adventurersguild.chapter_0.desc",
+  "unlock": { "type": "event", "value": "" },
+  "quests": []
+}

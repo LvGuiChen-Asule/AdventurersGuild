@@ -1,0 +1,21 @@
+{
+  "id": "AG_MAIN_102",
+  "type": "COLLECT",
+  "quality": "UNCOMMON",
+  "title": "quest.adventurersguild.AG_MAIN_102.title",
+  "description": "quest.adventurersguild.AG_MAIN_102.desc",
+  "objective": {
+    "target": "minecraft:cooked_beef",
+    "amount": 8
+  },
+  "reward": {
+    "gold": 10,
+    "exp": 40,
+    "reputation": 15
+  },
+  "recommended_level": 1,
+  "min_level": 1,
+  "min_reputation": 0,
+  "time_limit_seconds": 0,
+  "tutorial": false
+}

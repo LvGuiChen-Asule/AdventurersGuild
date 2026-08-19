@@ -1,0 +1,16 @@
+{
+  "id": "questmaster",
+  "npc": "questmaster",
+  "start": "start",
+  "nodes": [
+    {
+      "id": "start",
+      "text": "dialogue.adventurersguild.questmaster.start",
+      "choices": [
+        { "text": "dialogue.adventurersguild.questmaster.choices.board", "actions": [ { "type": "open_screen", "value": "quests" } ], "next": "close" },
+        { "text": "dialogue.adventurersguild.questmaster.choices.chains", "actions": [ { "type": "open_screen", "value": "chains" } ], "next": "close" },
+        { "text": "dialogue.adventurersguild.questmaster.choices.bye", "next": "close" }
+      ]
+    }
+  ]
+}

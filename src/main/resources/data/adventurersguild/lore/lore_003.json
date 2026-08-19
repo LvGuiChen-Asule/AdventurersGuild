@@ -1,0 +1,6 @@
+{
+  "id": "LORE_003",
+  "title": "lore.adventurersguild.LORE_003.title",
+  "text": "lore.adventurersguild.LORE_003.text",
+  "unlock_event": "EVENT_FIRST_NETHER"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "AG_MAIN_103",
+  "type": "COLLECT",
+  "quality": "UNCOMMON",
+  "title": "quest.adventurersguild.AG_MAIN_103.title",
+  "description": "quest.adventurersguild.AG_MAIN_103.desc",
+  "objective": {
+    "target": "minecraft:deepslate",
+    "amount": 16
+  },
+  "reward": {
+    "gold": 10,
+    "exp": 45,
+    "reputation": 15
+  },
+  "recommended_level": 1,
+  "min_level": 1,
+  "min_reputation": 0,
+  "time_limit_seconds": 0,
+  "tutorial": false
+}

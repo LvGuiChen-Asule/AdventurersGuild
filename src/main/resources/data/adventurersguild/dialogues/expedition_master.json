@@ -1,0 +1,31 @@
+{
+  "id": "expedition_master",
+  "npc": "expedition_master",
+  "start": "start",
+  "nodes": [
+    {
+      "id": "start",
+      "text": "dialogue.adventurersguild.expedition_master.start",
+      "choices": [
+        { "text": "dialogue.adventurersguild.expedition_master.choices.nether", "conditions": [ { "type": "event", "value": "EVENT_FIRST_NETHER" } ], "next": "nether" },
+        { "text": "dialogue.adventurersguild.expedition_master.choices.board", "actions": [ { "type": "open_screen", "value": "quests" } ], "next": "close" },
+        { "text": "dialogue.adventurersguild.expedition_master.choices.bye", "next": "close" }
+      ]
+    },
+    {
+      "id": "nether",
+      "text": "dialogue.adventurersguild.expedition_master.nether",
+      "choices": [
+        { "text": "dialogue.adventurersguild.expedition_master.choices.end", "conditions": [ { "type": "event", "value": "EVENT_DRAGON_DEATH" } ], "next": "end" },
+        { "text": "dialogue.adventurersguild.expedition_master.choices.bye", "next": "close" }
+      ]
+    },
+    {
+      "id": "end",
+      "text": "dialogue.adventurersguild.expedition_master.end",
+      "choices": [
+        { "text": "dialogue.adventurersguild.expedition_master.choices.bye", "next": "close" }
+      ]
+    }
+  ]
+}

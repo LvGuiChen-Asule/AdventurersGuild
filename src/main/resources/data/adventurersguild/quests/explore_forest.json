@@ -1,0 +1,13 @@
+{
+  "id": "explore_forest",
+  "type": "EXPLORE",
+  "quality": "RARE",
+  "title": "quest.adventurersguild.explore_forest.title",
+  "description": "quest.adventurersguild.explore_forest.desc",
+  "objective": { "target": "minecraft:forest" },
+  "reward": { "gold": 70, "exp": 45, "reputation": 25 },
+  "recommended_level": 3,
+  "min_level": 3,
+  "min_reputation": 0,
+  "time_limit_seconds": 3600
+}

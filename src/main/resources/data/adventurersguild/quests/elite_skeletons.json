@@ -1,0 +1,13 @@
+{
+  "id": "elite_skeletons",
+  "type": "ELITE",
+  "quality": "LEGENDARY",
+  "title": "quest.adventurersguild.elite_skeletons.title",
+  "description": "quest.adventurersguild.elite_skeletons.desc",
+  "objective": { "target": "minecraft:skeleton", "amount": 3 },
+  "reward": { "gold": 240, "exp": 170, "reputation": 60 },
+  "recommended_level": 6,
+  "min_level": 6,
+  "min_reputation": 0,
+  "time_limit_seconds": 7200
+}

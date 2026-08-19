@@ -1,0 +1,21 @@
+{
+  "id": "AG_MAIN_202",
+  "type": "MILESTONE",
+  "quality": "RARE",
+  "title": "quest.adventurersguild.AG_MAIN_202.title",
+  "description": "quest.adventurersguild.AG_MAIN_202.desc",
+  "objective": {
+    "target": "EVENT_NETHER_FORTRESS",
+    "amount": 1
+  },
+  "reward": {
+    "gold": 0,
+    "exp": 70,
+    "reputation": 25
+  },
+  "recommended_level": 2,
+  "min_level": 2,
+  "min_reputation": 0,
+  "time_limit_seconds": 0,
+  "tutorial": false
+}

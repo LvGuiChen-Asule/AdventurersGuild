@@ -1,0 +1,21 @@
+{
+  "id": "AG_MAIN_305",
+  "type": "MILESTONE",
+  "quality": "LEGENDARY",
+  "title": "quest.adventurersguild.AG_MAIN_305.title",
+  "description": "quest.adventurersguild.AG_MAIN_305.desc",
+  "objective": {
+    "target": "EVENT_DRAGON_DEATH",
+    "amount": 1
+  },
+  "reward": {
+    "gold": 0,
+    "exp": 150,
+    "reputation": 50
+  },
+  "recommended_level": 4,
+  "min_level": 4,
+  "min_reputation": 0,
+  "time_limit_seconds": 0,
+  "tutorial": false
+}

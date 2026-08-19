@@ -1,0 +1,28 @@
+# Gradle
+.gradle/
+build/
+
+# Minecraft run directories
+run/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+bin/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Local maven output
+mcmodsrepo/
+
+# Local offline repo (smoke test helper only)
+.localrepo/
+
+# Upload package (redundant with docs/portfolio/assets)
+AdventurersGuild_招聘作品集.zip
+
+# Staging mirror (not part of the project)
+work/

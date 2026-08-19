@@ -1,0 +1,10 @@
+{
+  "id": "chapter_3",
+  "title": "chapter.adventurersguild.chapter_3.title",
+  "description": "chapter.adventurersguild.chapter_3.desc",
+  "unlock": { "type": "event", "value": "EVENT_FIRST_END" },
+  "quests": [
+    "AG_MAIN_301", "AG_MAIN_302", "AG_MAIN_303", "AG_MAIN_304",
+    "AG_MAIN_305", "AG_MAIN_306", "AG_MAIN_307", "AG_MAIN_308"
+  ]
+}

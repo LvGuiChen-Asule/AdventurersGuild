@@ -1,0 +1,13 @@
+{
+  "id": "explore_snowy",
+  "type": "EXPLORE",
+  "quality": "RARE",
+  "title": "quest.adventurersguild.explore_snowy.title",
+  "description": "quest.adventurersguild.explore_snowy.desc",
+  "objective": { "target": "minecraft:snowy_plains" },
+  "reward": { "gold": 95, "exp": 60, "reputation": 25 },
+  "recommended_level": 3,
+  "min_level": 3,
+  "min_reputation": 0,
+  "time_limit_seconds": 3600
+}

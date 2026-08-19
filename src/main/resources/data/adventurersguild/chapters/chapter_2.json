@@ -1,0 +1,10 @@
+{
+  "id": "chapter_2",
+  "title": "chapter.adventurersguild.chapter_2.title",
+  "description": "chapter.adventurersguild.chapter_2.desc",
+  "unlock": { "type": "event", "value": "EVENT_FIRST_NETHER" },
+  "quests": [
+    "AG_MAIN_201", "AG_MAIN_202", "AG_MAIN_203", "AG_MAIN_204",
+    "AG_MAIN_205", "AG_MAIN_206", "AG_MAIN_207", "AG_MAIN_208"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "collect_bones",
+  "type": "COLLECT",
+  "quality": "COMMON",
+  "title": "quest.adventurersguild.collect_bones.title",
+  "description": "quest.adventurersguild.collect_bones.desc",
+  "objective": { "target": "minecraft:bone", "amount": 20 },
+  "reward": { "gold": 45, "exp": 30, "reputation": 10 },
+  "recommended_level": 1,
+  "min_level": 1,
+  "min_reputation": 0,
+  "time_limit_seconds": 1800
+}

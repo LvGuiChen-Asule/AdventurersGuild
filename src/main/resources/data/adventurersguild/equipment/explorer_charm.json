@@ -1,0 +1,8 @@
+{
+  "id": "explorer_charm",
+  "item": "adventurersguild:explorer_charm",
+  "slot": "charm",
+  "effect": "move_speed",
+  "value": 0.05,
+  "description": "equipment.adventurersguild.explorer_charm.desc"
+}

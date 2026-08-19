@@ -1,0 +1,13 @@
+{
+  "id": "explore_desert",
+  "type": "EXPLORE",
+  "quality": "RARE",
+  "title": "quest.adventurersguild.explore_desert.title",
+  "description": "quest.adventurersguild.explore_desert.desc",
+  "objective": { "target": "minecraft:desert" },
+  "reward": { "gold": 85, "exp": 55, "reputation": 25 },
+  "recommended_level": 3,
+  "min_level": 3,
+  "min_reputation": 0,
+  "time_limit_seconds": 3600
+}

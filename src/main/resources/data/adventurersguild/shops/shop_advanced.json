@@ -1,0 +1,12 @@
+{
+  "id": "shop_advanced",
+  "title": "shop.adventurersguild.shop_advanced.title",
+  "category": "equipment",
+  "items": [
+    { "item": "minecraft:iron_pickaxe", "count": 1, "price": 120, "min_level": 3 },
+    { "item": "minecraft:iron_sword", "count": 1, "price": 100, "min_level": 3 },
+    { "item": "minecraft:iron_helmet", "count": 1, "price": 80, "min_level": 3 },
+    { "item": "minecraft:golden_apple", "count": 1, "price": 150, "min_level": 3 },
+    { "item": "minecraft:honey_bottle", "count": 2, "price": 40, "min_level": 3 }
+  ]
+}

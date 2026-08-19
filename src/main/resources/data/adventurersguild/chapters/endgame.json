@@ -1,0 +1,13 @@
+{
+  "id": "endgame",
+  "title": "chapter.adventurersguild.endgame.title",
+  "description": "chapter.adventurersguild.endgame.desc",
+  "unlock": { "type": "event", "value": "EVENT_DRAGON_DEATH" },
+  "quests": [
+    "AG_END_001", "AG_END_002", "AG_END_003", "AG_END_004", "AG_END_005",
+    "AG_END_006", "AG_END_007", "AG_END_008", "AG_END_009", "AG_END_010",
+    "AG_END_011", "AG_END_012", "AG_END_013", "AG_END_014", "AG_END_015",
+    "AG_END_016", "AG_END_017", "AG_END_018", "AG_END_019", "AG_END_020",
+    "AG_END_021", "AG_END_022", "AG_END_023", "AG_END_024"
+  ]
+}

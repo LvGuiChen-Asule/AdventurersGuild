@@ -1,0 +1,23 @@
+{
+  "id": "end_researcher",
+  "npc": "end_researcher",
+  "start": "start",
+  "nodes": [
+    {
+      "id": "start",
+      "text": "dialogue.adventurersguild.end_researcher.start",
+      "choices": [
+        { "text": "dialogue.adventurersguild.end_researcher.choices.end", "conditions": [ { "type": "event", "value": "EVENT_DRAGON_DEATH" } ], "next": "end" },
+        { "text": "dialogue.adventurersguild.end_researcher.choices.chronicle", "actions": [ { "type": "open_screen", "value": "chronicle" } ], "next": "close" },
+        { "text": "dialogue.adventurersguild.end_researcher.choices.bye", "next": "close" }
+      ]
+    },
+    {
+      "id": "end",
+      "text": "dialogue.adventurersguild.end_researcher.end",
+      "choices": [
+        { "text": "dialogue.adventurersguild.end_researcher.choices.bye", "next": "close" }
+      ]
+    }
+  ]
+}

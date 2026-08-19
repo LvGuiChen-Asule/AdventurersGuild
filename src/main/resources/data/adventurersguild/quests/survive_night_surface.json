@@ -1,0 +1,13 @@
+{
+  "id": "survive_night_surface",
+  "type": "SURVIVE",
+  "quality": "UNCOMMON",
+  "title": "quest.adventurersguild.survive_night_surface.title",
+  "description": "quest.adventurersguild.survive_night_surface.desc",
+  "objective": { "target": "", "amount": 120, "extra": "night" },
+  "reward": { "gold": 80, "exp": 50, "reputation": 15 },
+  "recommended_level": 2,
+  "min_level": 2,
+  "min_reputation": 0,
+  "time_limit_seconds": 5400
+}

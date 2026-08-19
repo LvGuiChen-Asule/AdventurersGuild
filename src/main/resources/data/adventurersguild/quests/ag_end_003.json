@@ -1,0 +1,21 @@
+{
+  "id": "AG_END_003",
+  "type": "MILESTONE",
+  "quality": "EPIC",
+  "title": "quest.adventurersguild.AG_END_003.title",
+  "description": "quest.adventurersguild.AG_END_003.desc",
+  "objective": {
+    "target": "EVENT_END_ISLAND",
+    "amount": 1
+  },
+  "reward": {
+    "gold": 0,
+    "exp": 100,
+    "reputation": 30
+  },
+  "recommended_level": 6,
+  "min_level": 6,
+  "min_reputation": 0,
+  "time_limit_seconds": 0,
+  "tutorial": false
+}

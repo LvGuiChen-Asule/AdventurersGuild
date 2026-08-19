@@ -1,0 +1,13 @@
+{
+  "id": "hunt_creepers",
+  "type": "HUNT",
+  "quality": "UNCOMMON",
+  "title": "quest.adventurersguild.hunt_creepers.title",
+  "description": "quest.adventurersguild.hunt_creepers.desc",
+  "objective": { "target": "minecraft:creeper", "amount": 6 },
+  "reward": { "gold": 80, "exp": 50, "reputation": 15 },
+  "recommended_level": 2,
+  "min_level": 2,
+  "min_reputation": 0,
+  "time_limit_seconds": 2700
+}

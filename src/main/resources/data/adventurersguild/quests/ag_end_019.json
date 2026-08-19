@@ -1,0 +1,22 @@
+{
+  "id": "AG_END_019",
+  "type": "SURVIVE",
+  "quality": "LEGENDARY",
+  "title": "quest.adventurersguild.AG_END_019.title",
+  "description": "quest.adventurersguild.AG_END_019.desc",
+  "objective": {
+    "target": "minecraft:the_end",
+    "amount": 120,
+    "extra": "dimension"
+  },
+  "reward": {
+    "gold": 0,
+    "exp": 200,
+    "reputation": 60
+  },
+  "recommended_level": 6,
+  "min_level": 6,
+  "min_reputation": 0,
+  "time_limit_seconds": 0,
+  "tutorial": false
+}
